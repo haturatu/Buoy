@@ -4,7 +4,7 @@
     <string name="title_permission">Permissions</string>
 
     <string name="permission_title">Woah there!</string>
-    <string name="permission_message">続行するには権限が必要です。以下を実行するためにADBコマンドを使用してください（一行）：</string>
+    <string name="permission_message">続行するには権限が必要です。以下をADBコマンドを使用して実行してください（一行）：</string>
     <string name="permission_command" translatable="false">adb shell pm grant com.draco.buoy android.permission.WRITE_SECURE_SETTINGS</string>
 
     <string name="please_wait">権限を待っています</string>
